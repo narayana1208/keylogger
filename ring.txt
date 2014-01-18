@@ -1,0 +1,120 @@
+Connecting....
+220 mx.google.com ESMTP q6si6809739pay.139
+helo me.somepalace.com
+MAIL FROM:<narayanareddy.jobs@gmail.com>
+RCPT TO:<narayanareddy1258@gmail.com>
+DATA
+To:narayanareddy1258@gmail.com
+From:narayanareddy.jobs@gmail.com
+Subject:Logged
+
+Started logging: Fri Nov 23 09:15:19 2012
+
+.
+quit
+Connecting....
+220 mx.google.com ESMTP gk10si7338865pbc.56
+helo me.somepalace.com
+MAIL FROM:<narayanareddy.jobs@gmail.com>
+RCPT TO:<narayanareddy1258@gmail.com>
+DATA
+To:narayanareddy1258@gmail.com
+From:narayanareddy.jobs@gmail.com
+Subject:Logged
+ ls po
+[BACKSPACE]
+ e
+.
+quit
+Connecting....
+220 mx.google.com ESMTP n5si6829881paw.118
+helo me.somepalace.com
+MAIL FROM:<narayanareddy.jobs@gmail.com>
+RCPT TO:<narayanareddy1258@gmail.com>
+DATA
+To:narayanareddy1258@gmail.com
+From:narayanareddy.jobs@gmail.com
+Subject:Logged
+c
+[SHIFT]
+(((((((((''
+.
+quit
+Connecting....
+220 mx.google.com ESMTP a6si6832564paw.128
+helo me.somepalace.com
+MAIL FROM:<narayanareddy.jobs@gmail.com>
+RCPT TO:<narayanareddy1258@gmail.com>
+DATA
+To:narayanareddy1258@gmail.com
+From:narayanareddy.jobs@gmail.com
+Subject:Logged
+1 csjusjkk
+[ENTER]
+da
+.
+quit
+Connecting....
+220 mx.google.com ESMTP bt8si6815999pab.187
+helo me.somepalace.com
+MAIL FROM:<narayanareddy.jobs@gmail.com>
+RCPT TO:<narayanareddy1258@gmail.com>
+DATA
+To:narayanareddy1258@gmail.com
+From:narayanareddy.jobs@gmail.com
+Subject:Logged
+dl
+[CAPS LOCK]
+skdsqw
+.
+quit
+Connecting....
+Connecting....
+220 mx.google.com ESMTP xo9si7369197pbc.193
+helo me.somepalace.com
+MAIL FROM:<narayanareddy.jobs@gmail.com>
+RCPT TO:<narayanareddy1258@gmail.com>
+DATA
+To:narayanareddy1258@gmail.com
+From:narayanareddy.jobs@gmail.com
+Subject:Logged
+ri
+[CAPS LOCK]
+
+[SHIFT]
+
+Started logging: Fri Nov 23 09:52:47 2012
+
+.
+quit
+Connecting....
+220 mx.google.com ESMTP qu6si7416611pbc.165
+helo me.somepalace.com
+MAIL FROM:<narayanareddy.jobs@gmail.com>
+RCPT TO:<narayanareddy1258@gmail.com>
+DATA
+To:narayanareddy1258@gmail.com
+From:narayanareddy.jobs@gmail.com
+Subject:Logged
+(i((
+[BACKSPACE]
+
+[BACKSPACE]
+
+.
+quit
+Connecting....
+220 mx.google.com ESMTP ka8si7390635pbc.305
+helo me.somepalace.com
+MAIL FROM:<narayanareddy.jobs@gmail.com>
+RCPT TO:<narayanareddy1258@gmail.com>
+DATA
+To:narayanareddy1258@gmail.com
+From:narayanareddy.jobs@gmail.com
+Subject:Logged
+m
+[BACKSPACE]
+ ruyg((
+.
+quit
+Connecting....
